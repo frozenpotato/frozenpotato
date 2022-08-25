@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Genessis
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frozenpotato&count_private=true&theme=dracula)
 
 <!--
 **frozenpotato/frozenpotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
